@@ -31,5 +31,6 @@ void valor()
 
 /*
 ¿Cuál es el resultado? Explica el concepto de ámbito y visibilidad.
-el valor de pi no cambia sigue siendo el mismo que la variable global
+la variable pi sale distinta si la usas desde el main que desde una funcion, con eso podemos
+usar una variable en el main y otra igual global pero con otros datos y usarlas en la funciones.
 */
